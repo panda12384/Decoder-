@@ -7,13 +7,14 @@ Each combination of the input bits will activate exactly one of the four outputs
 **Truth Table**
 
 Inputs (A1, A0)	Outputs (D3, D2, D1, D0)
-00	0001
 
-01	0010
+00	  0001
 
-10	0100
+01	  0010
 
-11	1000
+10	  0100
+
+11	  1000
 
 Inputs (A1, A0) are the two binary input lines.
 
